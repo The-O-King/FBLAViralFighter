@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 36a6147d53dc3e0488a3fa2ebe33fa33
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: player jump shoot_0
+    21300002: player jump shoot_1
+    21300004: player jump shoot_2
+    21300006: player jump shoot_3
+    21300008: player jump shoot_4
+    21300010: player jump shoot_5
+    21300012: player jump shoot_6
+    21300014: player jump shoot_7
+    21300016: player jump shoot_8
+    21300018: player jump shoot_9
+    21300020: player jump shoot_10
+    21300022: player jump shoot_11
+    21300024: player jump shoot_12
+    21300026: player jump shoot_13
+    21300028: player jump shoot_14
+    21300030: player jump shoot_15
+    21300032: player jump shoot_16
+    21300034: player jump shoot_17
+    21300036: player jump shoot_18
+    21300038: player jump shoot_19
+    21300040: player jump shoot_20
+    21300042: player jump shoot_21
+    21300044: player jump shoot_22
+    21300046: player jump shoot_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: player jump shoot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1442
+        width: 555
+        height: 1110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_1
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1445
+        width: 564
+        height: 1107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_2
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1447
+        width: 574
+        height: 1105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_3
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1459
+        width: 559
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_4
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 1464
+        width: 541
+        height: 1088
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_5
+      rect:
+        serializedVersion: 2
+        x: 4304
+        y: 1481
+        width: 546
+        height: 1071
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_6
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 1486
+        width: 525
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_7
+      rect:
+        serializedVersion: 2
+        x: 6056
+        y: 1493
+        width: 510
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_8
+      rect:
+        serializedVersion: 2
+        x: 6915
+        y: 1513
+        width: 510
+        height: 1039
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_9
+      rect:
+        serializedVersion: 2
+        x: 7784
+        y: 1535
+        width: 498
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_10
+      rect:
+        serializedVersion: 2
+        x: 8644
+        y: 1540
+        width: 498
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_11
+      rect:
+        serializedVersion: 2
+        x: 9503
+        y: 1547
+        width: 497
+        height: 1005
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 94
+        width: 496
+        height: 1015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_13
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 89
+        width: 496
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_14
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 67
+        width: 509
+        height: 1042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_15
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 48
+        width: 511
+        height: 1061
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_16
+      rect:
+        serializedVersion: 2
+        x: 3466
+        y: 40
+        width: 522
+        height: 1069
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_17
+      rect:
+        serializedVersion: 2
+        x: 4303
+        y: 38
+        width: 547
+        height: 1071
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_18
+      rect:
+        serializedVersion: 2
+        x: 5167
+        y: 19
+        width: 540
+        height: 1090
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_19
+      rect:
+        serializedVersion: 2
+        x: 6007
+        y: 13
+        width: 559
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_20
+      rect:
+        serializedVersion: 2
+        x: 6852
+        y: 1
+        width: 574
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_21
+      rect:
+        serializedVersion: 2
+        x: 7721
+        y: 0
+        width: 564
+        height: 1109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_22
+      rect:
+        serializedVersion: 2
+        x: 8588
+        y: 0
+        width: 556
+        height: 1109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player jump shoot_23
+      rect:
+        serializedVersion: 2
+        x: 9445
+        y: 0
+        width: 555
+        height: 1109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 79437efbcf481a744b7950c048ecffa3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: player walk shoot_0
+    21300002: player walk shoot_1
+    21300004: player walk shoot_2
+    21300006: player walk shoot_3
+    21300008: player walk shoot_4
+    21300010: player walk shoot_5
+    21300012: player walk shoot_6
+    21300014: player walk shoot_7
+    21300016: player walk shoot_8
+    21300018: player walk shoot_9
+    21300020: player walk shoot_10
+    21300022: player walk shoot_11
+    21300024: player walk shoot_12
+    21300026: player walk shoot_13
+    21300028: player walk shoot_14
+    21300030: player walk shoot_15
+    21300032: player walk shoot_16
+    21300034: player walk shoot_17
+    21300036: player walk shoot_18
+    21300038: player walk shoot_19
+    21300040: player walk shoot_20
+    21300042: player walk shoot_21
+    21300044: player walk shoot_22
+    21300046: player walk shoot_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: player walk shoot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1332
+        width: 697
+        height: 1194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_1
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1332
+        width: 683
+        height: 1196
+      alignment: 9
+      pivot: {x: .460777372, y: .496800154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_2
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1330
+        width: 652
+        height: 1201
+      alignment: 9
+      pivot: {x: .455977738, y: .503186405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_3
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 1332
+        width: 619
+        height: 1201
+      alignment: 9
+      pivot: {x: .416535467, y: .503186405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_4
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 1334
+        width: 601
+        height: 1202
+      alignment: 9
+      pivot: {x: .40448454, y: .503183782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_5
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 1330
+        width: 588
+        height: 1207
+      alignment: 9
+      pivot: {x: .386101753, y: .504755914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_6
+      rect:
+        serializedVersion: 2
+        x: 5185
+        y: 1332
+        width: 588
+        height: 1205
+      alignment: 9
+      pivot: {x: .392609686, y: .504763782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_7
+      rect:
+        serializedVersion: 2
+        x: 6005
+        y: 1330
+        width: 615
+        height: 1206
+      alignment: 9
+      pivot: {x: .406658888, y: .503173232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_8
+      rect:
+        serializedVersion: 2
+        x: 6830
+        y: 1332
+        width: 635
+        height: 1201
+      alignment: 9
+      pivot: {x: .442745745, y: .504779637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_9
+      rect:
+        serializedVersion: 2
+        x: 7648
+        y: 1337
+        width: 664
+        height: 1191
+      alignment: 9
+      pivot: {x: .453891248, y: .501606464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_10
+      rect:
+        serializedVersion: 2
+        x: 8471
+        y: 1334
+        width: 685
+        height: 1192
+      alignment: 9
+      pivot: {x: .460891873, y: .499999911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_11
+      rect:
+        serializedVersion: 2
+        x: 9305
+        y: 1330
+        width: 695
+        height: 1194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 696
+        height: 1194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_13
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 0
+        width: 700
+        height: 1198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_14
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 0
+        width: 701
+        height: 1198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_15
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 0
+        width: 666
+        height: 1198
+      alignment: 9
+      pivot: {x: .451156855, y: .504791677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_16
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 0
+        width: 620
+        height: 1200
+      alignment: 9
+      pivot: {x: .410497665, y: .499999911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_17
+      rect:
+        serializedVersion: 2
+        x: 4315
+        y: 0
+        width: 613
+        height: 1203
+      alignment: 9
+      pivot: {x: .406354338, y: .506362379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_18
+      rect:
+        serializedVersion: 2
+        x: 5143
+        y: 0
+        width: 630
+        height: 1203
+      alignment: 9
+      pivot: {x: .421030194, y: .50159055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_19
+      rect:
+        serializedVersion: 2
+        x: 5934
+        y: 0
+        width: 686
+        height: 1200
+      alignment: 9
+      pivot: {x: .458159417, y: .498405367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_20
+      rect:
+        serializedVersion: 2
+        x: 6749
+        y: 0
+        width: 716
+        height: 1198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_21
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 1
+        width: 733
+        height: 1197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_22
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 0
+        width: 742
+        height: 1198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player walk shoot_23
+      rect:
+        serializedVersion: 2
+        x: 9254
+        y: 1
+        width: 746
+        height: 1192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

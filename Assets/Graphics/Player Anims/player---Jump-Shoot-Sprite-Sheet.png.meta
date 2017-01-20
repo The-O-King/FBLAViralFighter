@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 671ed20fe705b4c418c47149bf7915b8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: player---Jump-Shoot-Sprite-Sheet_0
+    21300002: player---Jump-Shoot-Sprite-Sheet_1
+    21300004: player---Jump-Shoot-Sprite-Sheet_2
+    21300006: player---Jump-Shoot-Sprite-Sheet_3
+    21300008: player---Jump-Shoot-Sprite-Sheet_4
+    21300010: player---Jump-Shoot-Sprite-Sheet_5
+    21300012: player---Jump-Shoot-Sprite-Sheet_6
+    21300014: player---Jump-Shoot-Sprite-Sheet_7
+    21300016: player---Jump-Shoot-Sprite-Sheet_8
+    21300018: player---Jump-Shoot-Sprite-Sheet_9
+    21300020: player---Jump-Shoot-Sprite-Sheet_10
+    21300022: player---Jump-Shoot-Sprite-Sheet_11
+    21300024: player---Jump-Shoot-Sprite-Sheet_12
+    21300026: player---Jump-Shoot-Sprite-Sheet_13
+    21300028: player---Jump-Shoot-Sprite-Sheet_14
+    21300030: player---Jump-Shoot-Sprite-Sheet_15
+    21300032: player---Jump-Shoot-Sprite-Sheet_16
+    21300034: player---Jump-Shoot-Sprite-Sheet_17
+    21300036: player---Jump-Shoot-Sprite-Sheet_18
+    21300038: player---Jump-Shoot-Sprite-Sheet_19
+    21300040: player---Jump-Shoot-Sprite-Sheet_20
+    21300042: player---Jump-Shoot-Sprite-Sheet_21
+    21300044: player---Jump-Shoot-Sprite-Sheet_22
+    21300046: player---Jump-Shoot-Sprite-Sheet_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: player---Jump-Shoot-Sprite-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 441
+        width: 152
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 441
+        width: 154
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 442
+        width: 156
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 445
+        width: 152
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 447
+        width: 148
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 452
+        width: 149
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 453
+        width: 143
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 454
+        width: 140
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 460
+        width: 139
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 466
+        width: 136
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 467
+        width: 136
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 469
+        width: 137
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 72
+        width: 135
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 71
+        width: 135
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 65
+        width: 139
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 59
+        width: 139
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 57
+        width: 143
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 56
+        width: 149
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 51
+        width: 148
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 50
+        width: 153
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 47
+        width: 157
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 46
+        width: 154
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 46
+        width: 152
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Jump-Shoot-Sprite-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 46
+        width: 152
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,16 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon (TM) R9 390 Series (ID=0x67b0)
+    Vendor:   ATI
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Omar El Sheikh\OneDrive\Projects\Unity Projects\FBLA Game Versions\SOUTHERN_OAKTONHS Remaster\Viral Showdown_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Omar El Sheikh\OneDrive\Projects\Unity Projects\FBLA Game Versions\SOUTHERN_OAKTONHS Remaster\Viral Showdown_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Omar El Sheikh\OneDrive\Projects\Unity Projects\FBLA Game Versions\SOUTHERN_OAKTONHS Remaster\Viral Showdown_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Omar El Sheikh\OneDrive\Projects\Unity Projects\FBLA Game Versions\SOUTHERN_OAKTONHS Remaster\Viral Showdown_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.073 seconds
+desktop: 3840x2160 60Hz; virtual: 3840x2160 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.

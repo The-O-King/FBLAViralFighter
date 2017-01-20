@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: ba70c444e581f544c97ff7419f8b2e73
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: player---Walk-Sprite-Sheet-V4_0
+    21300002: player---Walk-Sprite-Sheet-V4_1
+    21300004: player---Walk-Sprite-Sheet-V4_2
+    21300006: player---Walk-Sprite-Sheet-V4_3
+    21300008: player---Walk-Sprite-Sheet-V4_4
+    21300010: player---Walk-Sprite-Sheet-V4_5
+    21300012: player---Walk-Sprite-Sheet-V4_6
+    21300014: player---Walk-Sprite-Sheet-V4_7
+    21300016: player---Walk-Sprite-Sheet-V4_8
+    21300018: player---Walk-Sprite-Sheet-V4_9
+    21300020: player---Walk-Sprite-Sheet-V4_10
+    21300022: player---Walk-Sprite-Sheet-V4_11
+    21300024: player---Walk-Sprite-Sheet-V4_12
+    21300026: player---Walk-Sprite-Sheet-V4_13
+    21300028: player---Walk-Sprite-Sheet-V4_14
+    21300030: player---Walk-Sprite-Sheet-V4_15
+    21300032: player---Walk-Sprite-Sheet-V4_16
+    21300034: player---Walk-Sprite-Sheet-V4_17
+    21300036: player---Walk-Sprite-Sheet-V4_18
+    21300038: player---Walk-Sprite-Sheet-V4_19
+    21300040: player---Walk-Sprite-Sheet-V4_20
+    21300042: player---Walk-Sprite-Sheet-V4_21
+    21300044: player---Walk-Sprite-Sheet-V4_22
+    21300046: player---Walk-Sprite-Sheet-V4_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: player---Walk-Sprite-Sheet-V4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1416
+        width: 825
+        height: 1270
+      alignment: 9
+      pivot: {x: .545900285, y: .496273011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_1
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1416
+        width: 825
+        height: 1270
+      alignment: 9
+      pivot: {x: .548769236, y: .500000179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_2
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1416
+        width: 825
+        height: 1270
+      alignment: 9
+      pivot: {x: .543031514, y: .49813664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_3
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 1416
+        width: 825
+        height: 1270
+      alignment: 9
+      pivot: {x: .54016304, y: .501863718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_4
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1416
+        width: 825
+        height: 1270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_5
+      rect:
+        serializedVersion: 2
+        x: 4125
+        y: 1416
+        width: 825
+        height: 1270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_6
+      rect:
+        serializedVersion: 2
+        x: 4950
+        y: 1416
+        width: 825
+        height: 1270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_7
+      rect:
+        serializedVersion: 2
+        x: 5775
+        y: 1416
+        width: 825
+        height: 1270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_8
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 1416
+        width: 825
+        height: 1270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_9
+      rect:
+        serializedVersion: 2
+        x: 7425
+        y: 1416
+        width: 825
+        height: 1270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_10
+      rect:
+        serializedVersion: 2
+        x: 8250
+        y: 1416
+        width: 825
+        height: 1270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_11
+      rect:
+        serializedVersion: 2
+        x: 9075
+        y: 1416
+        width: 825
+        height: 1270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 825
+        height: 1270
+      alignment: 9
+      pivot: {x: .443306834, y: .502630591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_13
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 146
+        width: 825
+        height: 1270
+      alignment: 9
+      pivot: {x: .443306714, y: .502630591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_14
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 146
+        width: 825
+        height: 1270
+      alignment: 9
+      pivot: {x: .443306714, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_15
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 146
+        width: 825
+        height: 1270
+      alignment: 9
+      pivot: {x: .439257234, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_16
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 146
+        width: 825
+        height: 1270
+      alignment: 9
+      pivot: {x: .439257234, y: .502630591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_17
+      rect:
+        serializedVersion: 2
+        x: 4125
+        y: 146
+        width: 825
+        height: 1270
+      alignment: 9
+      pivot: {x: .423059314, y: .497369438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_18
+      rect:
+        serializedVersion: 2
+        x: 4950
+        y: 146
+        width: 825
+        height: 1270
+      alignment: 9
+      pivot: {x: .431158274, y: .494738817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_19
+      rect:
+        serializedVersion: 2
+        x: 5775
+        y: 146
+        width: 819
+        height: 1270
+      alignment: 9
+      pivot: {x: .423059314, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_20
+      rect:
+        serializedVersion: 2
+        x: 6573
+        y: 146
+        width: 823
+        height: 1270
+      alignment: 9
+      pivot: {x: .429418713, y: .502630591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_21
+      rect:
+        serializedVersion: 2
+        x: 7372
+        y: 146
+        width: 842
+        height: 1270
+      alignment: 9
+      pivot: {x: .44292447, y: .502630591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_22
+      rect:
+        serializedVersion: 2
+        x: 8199
+        y: 146
+        width: 829
+        height: 1270
+      alignment: 9
+      pivot: {x: .442794174, y: .497369438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Walk-Sprite-Sheet-V4_23
+      rect:
+        serializedVersion: 2
+        x: 8997
+        y: 146
+        width: 903
+        height: 1270
+      alignment: 9
+      pivot: {x: .444504648, y: .505261242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 37d2228f25219b14088f690dbd06d86d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: player---Idle-Sprite-Sheet_0
+    21300002: player---Idle-Sprite-Sheet_1
+    21300004: player---Idle-Sprite-Sheet_2
+    21300006: player---Idle-Sprite-Sheet_3
+    21300008: player---Idle-Sprite-Sheet_4
+    21300010: player---Idle-Sprite-Sheet_5
+    21300012: player---Idle-Sprite-Sheet_6
+    21300014: player---Idle-Sprite-Sheet_7
+    21300016: player---Idle-Sprite-Sheet_8
+    21300018: player---Idle-Sprite-Sheet_9
+    21300020: player---Idle-Sprite-Sheet_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: player---Idle-Sprite-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 635
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Idle-Sprite-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1
+        width: 630
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Idle-Sprite-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 0
+        width: 623
+        height: 1261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Idle-Sprite-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 0
+        width: 624
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Idle-Sprite-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 1
+        width: 625
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Idle-Sprite-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 4523
+        y: 0
+        width: 591
+        height: 1252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Idle-Sprite-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 5433
+        y: 0
+        width: 627
+        height: 1261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Idle-Sprite-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 6339
+        y: 0
+        width: 624
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Idle-Sprite-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 7242
+        y: 1
+        width: 622
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Idle-Sprite-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 8145
+        y: 1
+        width: 629
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player---Idle-Sprite-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 9051
+        y: 0
+        width: 631
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
